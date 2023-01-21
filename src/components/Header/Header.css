@@ -1,0 +1,12 @@
+.header {
+  text-align: center;
+  margin-top: 0px;
+  background-color: #40005d;
+  color: white;
+  font-weight: 700;
+  border: 1px solid black;
+}
+.header p {
+  font-family: "cursive";
+  font-weight: 400;
+}
